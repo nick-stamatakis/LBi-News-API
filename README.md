@@ -1,6 +1,7 @@
 # LBi-News-API
 
-I used Python, the Flask package, and the GNews API to make my application.
+I used Python, the Flask package, jsonify, and request, and the GNews API to make my application.
+You will have to download these packages in order to run my code.
 
 Here's how the code works:
 
